@@ -483,7 +483,7 @@ class fourWheeler: public Vehicle
 // sub class derived from two base classes 
 class Car: public fourWheeler{ 
    public: 
-     car() 
+     Car() 
      { 
        cout<<"Car has 4 Wheels"<<endl; 
      } 
